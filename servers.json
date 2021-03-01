@@ -18,20 +18,20 @@
     "endpoint": "http://gdps.mathieuar.fr/supreme1/"
   },
   {
+    "name": "Poggers GDPS",
+    "link": "https://discord.gg/c73jKyV6",
+    "author": "Fidgety",
+    "authorLink": "https://www.youtube.com/channel/UCz24x2lSzGJWSES49dvzuig",
+    "id": "poggers",
+    "endpoint": "http://gdps.mathieuar.fr/poggerGD/"
+  },
+  {
     "name": "ShackGDPS",
     "link": "https://discord.gg/Q3DHMFJE",
     "author": "Sha4",
     "authorLink": "https://www.youtube.com/channel/UCmqfdv6ZJgmAsX1WdLpnP_g",
     "id": "shack",
     "endpoint": "http://gdps.mathieuar.fr/ShackFou/"
-  },
-  {
-    "name": "Poggers GDPS",
-    "link": "https://discord.gg/c73jKyV6",
-    "author": "Fidgety",
-    "authorLink": "https://www.youtube.com/channel/UCz24x2lSzGJWSES49dvzuig",
-    "id": "poggers",
-    "endpoint": "http://gdps.mathieuar.fr/PoggerGD/"
   },
   {
     "name":"Impossible Levels GDPS",
